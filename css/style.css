@@ -530,56 +530,56 @@ DIFFERENT SIGHTS
 
 /*BREST*/
 .brest__image {
-  background-image: url(../img/brest.png); }
+  background-image: url(../img/Brest.png); }
 
 /*BRASLAV*/
 .braslav__image {
-  background-image: url(../img/braslav.png); }
+  background-image: url(../img/Braslav.png); }
 
 /*KOLOZHA*/
 .kolozha__image {
-  background-image: url(../img/kolozh.png); }
+  background-image: url(../img/Kolozh.png); }
 
 /*MIR*/
 .mir__image {
   background-position: right top;
-  background-image: url(../img/mir.png); }
+  background-image: url(../img/Mir.png); }
 
 /*KHATYN*/
 .khatyn__image {
-  background-image: url(../img/hatyn.png); }
+  background-image: url(../img/Hatyn.png); }
 
 /*BEREZIN*/
 .berezin__image {
   background-position: center center;
-  background-image: url(../img/berezin.png); }
+  background-image: url(../imgBerezin.png); }
 
 /*PRIPYAT*/
 .pripyat__image {
-  background-image: url(../img/prip.png); }
+  background-image: url(../img/Prip.png); }
 
 /*BELOVEZH*/
 .belovezh__image {
   background-position: right top;
-  background-image: url(../img/belovezh.png); }
+  background-image: url(../img/Belovezh.png); }
 
 /*MOUND*/
 .mound__image {
-  background-image: url(../img/kurgan.png); }
+  background-image: url(../img/Kurgan.png); }
 
 /*STALIN*/
 .stalin__image {
   background-position: center center;
-  background-image: url(../img/stalin.png); }
+  background-image: url(../img/Stalin.png); }
 
 /*NOVO*/
 .novo__image {
-  background-image: url(../img/novo.png); }
+  background-image: url(../img/Novo.png); }
 
 /*SOPHIA*/
 .sophia__image {
   background-position: right top;
-  background-image: url(../img/sofsob.png); }
+  background-image: url(../img/SofSob.png); }
 
 /*RESPONSIVE*/
 @media screen and (max-width: 1150px) {
