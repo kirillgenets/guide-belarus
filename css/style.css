@@ -271,7 +271,7 @@ SIGHTS
 .sights {
   padding: 80px 220px;
   position: relative;
-  background: url(../img/polygonSights.png) no-repeat 900px 250px, url(../img/ellipseSights.png) no-repeat -150px 30px, url(../img/rectangleSights.png) no-repeat -400px 600px; }
+  background: url(../img/PolygonSights.png) no-repeat 900px 250px, url(../img/EllipseSights.png) no-repeat -150px 30px, url(../img/RectangleSights.png) no-repeat -400px 600px; }
 
 .sights__title {
   color: #148534; }
@@ -373,7 +373,7 @@ SIGHTS
   background-size: cover; }
 
 .sights__image_sofsob {
-  background: url(../img/SofSobL.png);
+  background: url(../img/sofSobL.png);
   background-size: cover; }
 
 /*
@@ -552,7 +552,7 @@ DIFFERENT SIGHTS
 /*BEREZIN*/
 .berezin__image {
   background-position: center center;
-  background-image: url(../imgBerezin.png); }
+  background-image: url(../img/Berezin.png); }
 
 /*PRIPYAT*/
 .pripyat__image {
@@ -579,7 +579,7 @@ DIFFERENT SIGHTS
 /*SOPHIA*/
 .sophia__image {
   background-position: right top;
-  background-image: url(../img/SofSob.png); }
+  background-image: url(../img/sofSob.png); }
 
 /*RESPONSIVE*/
 @media screen and (max-width: 1150px) {
@@ -649,7 +649,7 @@ DIFFERENT SIGHTS
 MAP
 ---------*/
 .map {
-  background: url(../img/RectangleMap.png) no-repeat, url(../img/ellipseMap.png) no-repeat right 300px; }
+  background: url(../img/RectangleMap.png) no-repeat, url(../img/EllipseMap.png) no-repeat right 300px; }
 
 .map__title {
   color: #148534; }
